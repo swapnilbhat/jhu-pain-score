@@ -1,6 +1,6 @@
 # Predicting Modified Overall Disability Index (MODI) Pain Scores from Full-Body X-rays
 
-This project involves collaboration with researchers at **Johns Hopkins University (JHU)** and **University of California, San Francisco (UCSF)** to predict the Modified Overall Disability Index (MODI) pain score using full-body X-ray images. The pipeline is designed to overcome the challenges posed by a limited dataset by leveraging advanced machine learning techniques.
+This project involves prediction of  the Modified Overall Disability Index (MODI) pain score using full-body X-ray images. The pipeline is designed to overcome the challenges posed by a limited dataset by leveraging advanced machine learning techniques.
 
 ## Objective
 
